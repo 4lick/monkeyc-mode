@@ -15,4 +15,4 @@ save the file where Emacs can find it (i.e., a directory in your
 (add-to-list 'auto-mode-alist '("\\.mc\\'" . monkeyc-mode))
 ```
 
-[monkeyc-mode.el]: http://github.com/4lick/monkeyc-mode/monkeyc-mode.el
+[monkeyc-mode.el]: https://github.com/4lick/monkeyc-mode/blob/master/monkeyc-mode.el
